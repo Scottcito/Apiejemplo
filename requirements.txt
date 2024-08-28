@@ -1,0 +1,10 @@
+Flask==2.2.3
+werkzeug==2.2.3
+boto3==1.26.14
+torch==2.3.1
+torchvision==0.18.1
+pillow==10.1.0
+numpy<2.0
+ultralytics==8.2.77
+gunicorn==23.0.0
+pandas==1.5.3
